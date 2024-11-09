@@ -196,7 +196,7 @@ body {
       --height: clamp(250px, 50vw, 500px);
       --x: calc(var(--active) * 800%);
     --y: calc(var(--active) * 200%);
-    --rot: calc(var(--active) * 0deg);
+    --rot: calc(var(--active) * 120deg);
   }
 }
   @font-face {
