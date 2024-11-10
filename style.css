@@ -211,7 +211,7 @@ body {
       display: block;
     }
   }
-  @media only screen and (max-width:8000px){
+  @media only screen and (max-width:800px){
     .carousel-item {
       --items: 18;
       --width: clamp(200px, 40vw, 400px);
